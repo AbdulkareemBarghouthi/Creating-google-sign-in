@@ -1,0 +1,6 @@
+client ID
+395914345193-ujffms8kqgals6cpm2ki82c9aihb273t.apps.googleusercontent.com
+
+client secret
+	
+OFHXChgbMlltTJtJHiwSn09P
